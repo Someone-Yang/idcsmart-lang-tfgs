@@ -4,23 +4,23 @@ $_LANG['display_name'] = '美西螈语';  //用于在语言切换下拉中显示
 $_LANG['display_flag'] = 'TFGS'; //用于显示图片，使用国家代码大写
 
 
-$_LANG['home'] = "首页";
-$_LANG['pending_work_order'] = "待处理待处理待处理工单";
-$_LANG['unpaid_order'] = "未支付订单嗷嗷嗷";
-$_LANG['number_of_products'] = "产品数量";
-$_LANG['records_of_consumption'] = "消费记录";
-$_LANG['consumption_this_month'] = "消费消费消费";
+$_LANG['home'] = "谢家湾";
+$_LANG['pending_work_order'] = "未处理汞丹";
+$_LANG['unpaid_order'] = "未支付订单哇哇哇";
+$_LANG['number_of_products'] = "美西螈数量";
+$_LANG['records_of_consumption'] = "给钱记录";
+$_LANG['consumption_this_month'] = "给你金币";
 $_LANG['order_records'] = "订单记录";
-$_LANG['unpaid'] = "本月未支付";
-$_LANG['recharge'] = "冲9999块钱";
-$_LANG['products_launched_all'] = "已开通9999的产品";
-$_LANG['announcement'] = "重要的！重要的！重要的！通知";
+$_LANG['unpaid'] = "本月没有9999支付！";
+$_LANG['recharge'] = "给你9999金币！";
+$_LANG['products_launched_all'] = "已9999开通的美西螈";
+$_LANG['announcement'] = "重要的！重要的！重要的！通知！";
 $_LANG['view_more'] = "看9999更多";
-$_LANG['nothing'] = "没有任何内容";
+$_LANG['nothing'] = "没有任何内容！";
 $_LANG['nothing_content'] = "没有任何内容";
-$_LANG['transaction_time'] = "交易时间";
-$_LANG['current_balance'] = "唔，余额";
-$_LANG['custom_password_box'] = "自定义密码框";
+$_LANG['transaction_time'] = "给钱时间";
+$_LANG['current_balance'] = "剩余金币数";
+$_LANG['custom_password_box'] = "自定义弥码框";
 
 // /service
 $_LANG['please_select_status'] = "选状态！选状态！选状态！";
@@ -28,14 +28,14 @@ $_LANG['search_by_keyword'] = "美西螈搜索引擎";
 $_LANG['state'] = "去世了没";
 $_LANG['product'] = "是什么";
 $_LANG['due_date'] = "大概什么时候去世";
-$_LANG['cost'] = "钱！钱！钱！";
-$_LANG['system'] = "精华系统！";
-$_LANG['please_wait_a_moment'] = "请稍候";
-$_LANG['disable_and_remove_the_product'] = "停用并删除该产品";
+$_LANG['cost'] = "金币！金币！金币！";
+$_LANG['system'] = "精化系统！";
+$_LANG['please_wait_a_moment'] = "9999等待！";
+$_LANG['disable_and_remove_the_product'] = "停用并删除该美西螈";
 $_LANG['cancellation_time'] = "取消时间";
 $_LANG['cancelreason'] = "取消原因";
 $_LANG['day'] = "86,400秒";
-$_LANG['hour'] = "3600秒";
+$_LANG['hour'] = "3,600秒";
 $_LANG['free'] = "免费！免费！免费！";
 $_LANG['onetime'] = "9999辈子";
 $_LANG['ontrial'] = "试用";
@@ -53,9 +53,9 @@ $_LANG['eightly'] = "八年";
 $_LANG['ninely'] = "九年";
 $_LANG['tenly'] = "十年";
 $_LANG['automatic_renewal_of_balance'] = "余额自动续费";
-$_LANG['operating'] = "草作";
+$_LANG['operating'] = "焯作";
 $_LANG['renew'] = "续9999命";
-$_LANG['products_launched'] = "批量操作";
+$_LANG['products_launched'] = "批量焯作";
 $_LANG['batch_operation'] = "连上！";
 $_LANG['shut_down'] = "闭目养神";
 $_LANG['restart'] = "turnaround";
@@ -109,7 +109,7 @@ $_LANG['personal_security'] = "支持个人及企业认证，使账户更加安�
 $_LANG['certified'] = "已认证";
 $_LANG['not_certified'] = "未认证";
 $_LANG['secondary_verification'] = "二次验证";
-$_LANG['secondary_verification_details'] = "当进行敏感操作时, 需要二次验证";
+$_LANG['secondary_verification_details'] = "当进行敏感焯作时, 需要二次验证";
 $_LANG['close'] = "关闭";
 $_LANG['open'] = "开启";
 $_LANG['opens_two'] = "开启";
@@ -271,11 +271,11 @@ $_LANG['payment_time'] = "付款时间";
 
 
 // addfunds
-$_LANG['the_maximum_allowed_balance_exceeded'] = "超出允许的余额上限";
-$_LANG['current_balance'] = "唔，余额";
+$_LANG['the_maximum_allowed_balance_exceeded'] = "超出允许的余额上限！";
+$_LANG['current_balance'] = "剩余金币！";
 $_LANG['recharge_amount'] = "充9999";
 $_LANG['payment_method'] = "举办方式";
-$_LANG['confirm_recharge'] = "立刻嗷嗷嗷";
+$_LANG['confirm_recharge'] = "立刻唔唔唔";
 
 // /applog  /apps
 $_LANG['time'] = "时间";
